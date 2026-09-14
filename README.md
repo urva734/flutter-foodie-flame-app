@@ -1,4 +1,6 @@
-# 🍲 Foodie Flame
+   ![Foodie Flame Banner](screenshots/banner.png)
+
+   ## 🍲 Foodie Flame
 
 A beautiful **Flutter + Dart Recipe App** that helps users discover, search, and save their favorite recipes.
 
