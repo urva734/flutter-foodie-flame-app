@@ -25,35 +25,37 @@ This project focuses on clean UI, smooth navigation, and practical state managem
 | **IDE** | VS Code / Android Studio |
 
 ## 🏗️ Project Structure
+```
 lib/
 ├── models/        # Recipe data models
 ├── screens/       # Home, Categories, Favorites, Details
 ├── widgets/       # Reusable UI components
 ├── providers/     # State management with Provider
 └── main.dart      # App entry point
+```
 
 ## 🚀 Getting Started
 To run this project locally:
-
-1. **Clone the repo**
-```bash
-git clone https://github.com/urva734/flutter-foodie-flame-app.git
-
-### Install dependencies
-bash flutter pub get
-## Run the app
-bash
-flutter run
+1. Download the code from the `Code` button above
+2. Run `flutter pub get` in terminal
+3. Run `flutter run`
 
 ## 📸 Screenshots
+| Home | Categories | Recipe Details |
+| --- | --- | --- |
+| ![Home](screenshots/home.png) | ![Categories](screenshots/categories.png) | ![Details](screenshots/details.png) |
 
 ## 🔮 Future Improvements
-Add recipe API integration instead of local data
-User authentication with Firebase
-Dark mode support
-Share recipe feature
-Add cooking timer
+- [ ] Add recipe API integration instead of local data
+- [ ] User authentication with Firebase
+- [ ] Dark mode support
+- [ ] Share recipe feature
+- [ ] Add cooking timer
+
 ## 👤 Author
-Urva Sohail
+**Urva Sohail**  
 Aspiring Flutter Developer 
-GitHub: @urva734
+
+GitHub: [@urva734](https://github.com/urva734)
+
+
