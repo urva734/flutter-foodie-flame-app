@@ -58,6 +58,5 @@ To run this project locally:
 **Urva Sohail**  
 Aspiring Flutter Developer 
 
-GitHub: [@urva734](https://github.com/urva734)
 
 
