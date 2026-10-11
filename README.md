@@ -56,7 +56,6 @@ To run this project locally:
 
 ## 👤 Author
 **Urva Sohail**  
-Aspiring Flutter Developer 
 
 
 
