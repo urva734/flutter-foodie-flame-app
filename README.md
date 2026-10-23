@@ -10,6 +10,7 @@ The goal of this app is to make recipe discovery simple and fun. Users can brows
 
 This project focuses on clean UI, smooth navigation, and practical state management.
 
+
 ## ✨ Key Features
 - **🔍 Smart Search**: Find recipes by name or ingredients instantly
 - **📂 Categories**: Browse recipes by `Breakfast`, `Lunch`, `Dinner`, `Desserts`, and more
@@ -18,6 +19,7 @@ This project focuses on clean UI, smooth navigation, and practical state managem
 - **📱 Responsive UI**: Clean and modern design that works on Android, iOS, and Web
 - **⚡ Fast Performance**: Optimized widgets and state management for smooth experience
 
+
 ## 💻 Tech Stack
 | Category | Technology |
 | --- | --- |
@@ -25,6 +27,7 @@ This project focuses on clean UI, smooth navigation, and practical state managem
 | **Language** | Dart |
 | **State Management** | Provider / setState |
 | **IDE** | VS Code / Android Studio |
+
 
 ## 🏗️ Project Structure
 ```
@@ -53,6 +56,7 @@ To run this project locally:
 - [ ] Dark mode support
 - [ ] Share recipe feature
 - [ ] Add cooking timer
+
 
 ## 👤 Author
 **Urva Sohail**  
